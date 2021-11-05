@@ -1,0 +1,80 @@
+{
+    "artists":[
+        {
+            "id":1,
+            "name":"John Lisu",
+            "desc":"He is a gospel artist from Tanzania...",
+            "image":"./images/7.jpg",
+            "category":"Gospel",
+            "song":"./audio/1.mp3"
+        },
+
+         {
+            "id":2,
+            "name":"Enrique Eglesias",
+             "desc":"He is a gospel artist from Tanzania...",
+            "image":"./images/5.jpg",
+            "category":"Love",
+            "song":"./audio/1.mp3"
+        },
+
+         {
+            "id":3,
+            "name":"Dolly Parton",
+             "desc":"He is a gospel artist from Tanzania...",
+            "image":"./images/2.jpeg",
+            "category":"Country",
+            "song":"./audio/1.mp3"
+        },
+
+         {
+            "id":4,
+            "name":"Don Moen",
+             "desc":"He is a gospel artist from Tanzania...",
+            "image":"./images/3.jpg",
+            "category":"Gospel",
+            "song":"./audio/1.mp3"
+        },
+         {
+            "id":5,
+            "name":"Celine Dion",
+             "desc":"He is a gospel artist from Tanzania...",
+            "image":"/images/1.jpg",
+            "category":"Love",
+            "song":"./audio/1.mp3"
+        },
+
+         {
+            "id":6,
+            "name":"Kenny Rodgers",
+             "desc":"He is a gospel artist from Tanzania...",
+            "image":"/images/8.jpg",
+            "category":"Country",
+            "song":"./audio/1.mp3"
+        },
+         {
+            "id":7,
+            "name":"Paul Mwai",
+             "desc":"He is a gospel artist from Tanzania...",
+            "image":"/images/11.jpg",
+            "category":"Gospel",
+            "song":"./audio/1.mp3"
+        },
+         {
+            "id":8,
+            "name":"Sean Paul",
+             "desc":"He is a gospel artist from Tanzania...",
+            "image":"./images/10.jpg",
+            "category":"Love",
+            "song":"./audio/1.mp3"
+        },
+         {
+            "id":9,
+            "name":"Portor Wagoner",
+             "desc":"He is a gospel artist from Tanzania...",
+            "image":"./images/9.jfif",
+            "category":"Country",
+            "song":"./audio/1.mp3"
+        }
+    ]
+}
